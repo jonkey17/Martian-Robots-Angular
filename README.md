@@ -68,6 +68,11 @@ LLFFFLFLFL
 
 3,4NLOST
 
+### Prerequisites
+Node.js
+Npm
+Bower.js
+
 ### TO RUN
 > npm install
 > bower install
